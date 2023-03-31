@@ -22,6 +22,10 @@ public class Main {
         neon.size="15cm";
         neon.intensity="7675lumin";
 
+        JoeChrome j=new JoeChrome();
+        j.isEv=false;
+        j.topSpeed=180;
+
 
     }
 }

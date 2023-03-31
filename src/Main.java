@@ -26,6 +26,9 @@ public class Main {
         j.isEv=false;
         j.topSpeed=180;
 
+        try2 t = new try2();
+        t.status="confused";
+
 
     }
 }
